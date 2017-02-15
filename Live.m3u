@@ -1,1 +1,1755 @@
-# Iptv
+#EXTM3U
+#EXTINF:-1,BBC 1
+http://37.187.251.142:8000/live/james/james/51.ts
+#EXTINF:-1,BBC 2
+http://37.187.251.142:8000/live/james/james/52.ts
+#EXTINF:-1,ITV London
+http://37.187.251.142:8000/live/james/james/57.ts
+#EXTINF:-1,Channel 4
+http://37.187.251.142:8000/live/james/james/54.ts
+#EXTINF:-1,Channel 5
+http://37.187.251.142:8000/live/james/james/95.ts
+#EXTINF:-1,E4
+http://37.187.251.142:8000/live/james/james/55.ts
+#EXTINF:-1,Sky One
+http://37.187.251.142:8000/live/james/james/255.ts
+#EXTINF:-1,Sky 2
+http://37.187.251.142:8000/live/james/james/227.ts
+#EXTINF:-1,SKY Atlantic
+http://37.187.251.142:8000/live/james/james/61.ts
+#EXTINF:-1,SYFY
+http://37.187.251.142:8000/live/james/james/96.ts
+#EXTINF:-1,Alibi
+http://37.187.251.142:8000/live/james/james/523.ts
+#EXTINF:-1,itvbe
+http://37.187.251.142:8000/live/james/james/5304.ts
+#EXTINF:-1,ITV4
+http://37.187.251.142:8000/live/james/james/5303.ts
+#EXTINF:-1,ITV3
+http://37.187.251.142:8000/live/james/james/5301.ts
+#EXTINF:-1,ITV2
+http://37.187.251.142:8000/live/james/james/5302.ts
+#EXTINF:-1,Sky Living
+http://37.187.251.142:8000/live/james/james/80.ts
+#EXTINF:-1,UK Gold
+http://37.187.251.142:8000/live/james/james/437.ts
+#EXTINF:-1,E!
+http://37.187.251.142:8000/live/james/james/91.ts
+#EXTINF:-1,Film 4
+http://37.187.251.142:8000/live/james/james/346.ts
+#EXTINF:-1,Dave
+http://37.187.251.142:8000/live/james/james/408.ts
+#EXTINF:-1,FOX UK
+http://37.187.251.142:8000/live/james/james/66.ts
+#EXTINF:-1,Comedy Central
+http://37.187.251.142:8000/live/james/james/65.ts
+#EXTINF:-1,CBeebies
+http://37.187.251.142:8000/live/james/james/5150.ts
+#EXTINF:-1,CBBC
+http://37.187.251.142:8000/live/james/james/5151.ts
+#EXTINF:-1,CBBC HD
+http://37.187.251.142:8000/live/james/james/4999.ts
+#EXTINF:-1,BABY TV
+http://37.187.251.142:8000/live/james/james/1170.ts
+#EXTINF:-1,Nickelodeon
+http://37.187.251.142:8000/live/james/james/286.ts
+#EXTINF:-1,Cartoon Network UK
+http://37.187.251.142:8000/live/james/james/234.ts
+#EXTINF:-1,DISNEY JUNIOR
+http://37.187.251.142:8000/live/james/james/2471.ts
+#EXTINF:-1,Disney Channel
+http://37.187.251.142:8000/live/james/james/402.ts
+#EXTINF:-1,BBC Parliment
+http://37.187.251.142:8000/live/james/james/5149.ts
+#EXTINF:-1,Boomerang
+http://37.187.251.142:8000/live/james/james/240.ts
+#EXTINF:-1,Watch
+http://37.187.251.142:8000/live/james/james/400.ts
+#EXTINF:-1,Drama UK
+http://37.187.251.142:8000/live/james/james/403.ts
+#EXTINF:-1,CBS Action
+http://37.187.251.142:8000/live/james/james/397.ts
+#EXTINF:-1,National Geographic
+http://37.187.251.142:8000/live/james/james/120.ts
+#EXTINF:-1,Discovery
+http://37.187.251.142:8000/live/james/james/82.ts
+#EXTINF:-1,Discovery Science
+http://37.187.251.142:8000/live/james/james/276.ts
+#EXTINF:-1,Discovery Turbo
+http://37.187.251.142:8000/live/james/james/63.ts
+#EXTINF:-1,Discovery Shed
+http://37.187.251.142:8000/live/james/james/5045.ts
+#EXTINF:-1,History
+http://37.187.251.142:8000/live/james/james/7.ts
+#EXTINF:-1,History +1
+http://37.187.251.142:8000/live/james/james/543.ts
+#EXTINF:-1,Animal Planet
+http://37.187.251.142:8000/live/james/james/232.ts
+#EXTINF:-1,Motors TV
+http://37.187.251.142:8000/live/james/james/78.ts
+#EXTINF:-1,Bloomberg
+http://37.187.251.142:8000/live/james/james/2167.ts
+#EXTINF:-1,SPIKE
+http://37.187.251.142:8000/live/james/james/1171.ts
+#EXTINF:-1,DMAX UK
+http://37.187.251.142:8000/live/james/james/1138.ts
+#EXTINF:-1,BBC NEWS
+http://37.187.251.142:8000/live/james/james/5306.ts
+#EXTINF:-1,SKY News
+http://37.187.251.142:8000/live/james/james/97.ts
+#EXTINF:-1,MTV Dance HD
+http://37.187.251.142:8000/live/james/james/3951.ts
+#EXTINF:-1,MTV Base HD
+http://37.187.251.142:8000/live/james/james/3949.ts
+#EXTINF:-1,MTV Music
+http://37.187.251.142:8000/live/james/james/1127.ts
+#EXTINF:-1,MTV HITS
+http://37.187.251.142:8000/live/james/james/1128.ts
+#EXTINF:-1,MTV Dance UK
+http://37.187.251.142:8000/live/james/james/182.ts
+#EXTINF:-1,VH1
+http://37.187.251.142:8000/live/james/james/4997.ts
+#EXTINF:-1,VH1 CLASSIC
+http://37.187.251.142:8000/live/james/james/4998.ts
+#EXTINF:-1,Sky Movies Sci-Fi and Horror
+http://37.187.251.142:8000/live/james/james/273.ts
+#EXTINF:-1,Sky Disney
+http://37.187.251.142:8000/live/james/james/268.ts
+#EXTINF:-1,Sky Premiere
+http://37.187.251.142:8000/live/james/james/44.ts
+#EXTINF:-1,Sky Family
+http://37.187.251.142:8000/live/james/james/41.ts
+#EXTINF:-1,Sky Comedy
+http://37.187.251.142:8000/live/james/james/43.ts
+#EXTINF:-1,Sky Action
+http://37.187.251.142:8000/live/james/james/40.ts
+#EXTINF:-1,Sky Movies Modern Greats
+http://37.187.251.142:8000/live/james/james/85.ts
+#EXTINF:-1,Sky Movies Select
+http://37.187.251.142:8000/live/james/james/236.ts
+#EXTINF:-1,Sky DramaRom Movies
+http://37.187.251.142:8000/live/james/james/237.ts
+#EXTINF:-1,SKY Superheros
+http://37.187.251.142:8000/live/james/james/285.ts
+#EXTINF:-1,SKY SPORTS  NEWS HQ
+http://37.187.251.142:8000/live/james/james/64.ts
+#EXTINF:-1,GEO SUPER CRICKET
+http://37.187.251.142:8000/live/james/james/3948.ts
+#EXTINF:-1,SKY SPORTS 1 HD
+http://37.187.251.142:8000/live/james/james/4.ts
+#EXTINF:-1,Sky Sports 2 HD
+http://37.187.251.142:8000/live/james/james/5.ts
+#EXTINF:-1,SKY SPORTS S2
+http://37.187.251.142:8000/live/james/james/1905.ts
+#EXTINF:-1,Sky Sports 1 SD
+http://37.187.251.142:8000/live/james/james/342.ts
+#EXTINF:-1,Sky Sports 2 SD
+http://37.187.251.142:8000/live/james/james/343.ts
+#EXTINF:-1,Sky Sports 3 HD
+http://37.187.251.142:8000/live/james/james/6.ts
+#EXTINF:-1,Sky Sports 3  SD
+http://37.187.251.142:8000/live/james/james/344.ts
+#EXTINF:-1,Sky Sports 4
+http://37.187.251.142:8000/live/james/james/79.ts
+#EXTINF:-1,Sky Sports 5
+http://37.187.251.142:8000/live/james/james/72.ts
+#EXTINF:-1,Sky Sports DARTS HD
+http://37.187.251.142:8000/live/james/james/5990.ts
+#EXTINF:-1,Sky Sports F1
+http://37.187.251.142:8000/live/james/james/8.ts
+#EXTINF:-1,SKY SPORTS boxoffice
+http://37.187.251.142:8000/live/james/james/2293.ts
+#EXTINF:-1,BT Sport 1 HD UK
+http://37.187.251.142:8000/live/james/james/345.ts
+#EXTINF:-1,BT SPORT 1 HD
+http://37.187.251.142:8000/live/james/james/62.ts
+#EXTINF:-1,BT SPORT 2
+http://37.187.251.142:8000/live/james/james/287.ts
+#EXTINF:-1,BT Sport 3 HD UK
+http://37.187.251.142:8000/live/james/james/4474.ts
+#EXTINF:-1,Setanta Sports HD
+http://37.187.251.142:8000/live/james/james/393.ts
+#EXTINF:-1,Setanta Ireland
+http://37.187.251.142:8000/live/james/james/87.ts
+#EXTINF:-1,Premier Sports
+http://37.187.251.142:8000/live/james/james/278.ts
+#EXTINF:-1,MUTV
+http://37.187.251.142:8000/live/james/james/277.ts
+#EXTINF:-1,Chelsea TV
+http://37.187.251.142:8000/live/james/james/275.ts
+#EXTINF:-1,Box Nation
+http://37.187.251.142:8000/live/james/james/9.ts
+#EXTINF:-1,At The Races
+http://37.187.251.142:8000/live/james/james/69.ts
+#EXTINF:-1,Racing UK
+http://37.187.251.142:8000/live/james/james/224.ts
+#EXTINF:-1,############################# irish & scottish & WALES ###########################################
+http://37.187.251.142:8000/live/james/james/5049.ts
+#EXTINF:-1,BBC One Scotland HD
+http://37.187.251.142:8000/live/james/james/5142.ts
+#EXTINF:-1,BBC One Northern Ireland HD
+http://37.187.251.142:8000/live/james/james/5143.ts
+#EXTINF:-1,BBC One Wales HD
+http://37.187.251.142:8000/live/james/james/5141.ts
+#EXTINF:-1,BBC Two Scotland
+http://37.187.251.142:8000/live/james/james/5139.ts
+#EXTINF:-1,BBC Two Wales
+http://37.187.251.142:8000/live/james/james/5138.ts
+#EXTINF:-1,BBC Two Northern Ireland
+http://37.187.251.142:8000/live/james/james/5140.ts
+#EXTINF:-1,BBC ALBA
+http://37.187.251.142:8000/live/james/james/5144.ts
+#EXTINF:-1,TG4
+http://37.187.251.142:8000/live/james/james/5047.ts
+#EXTINF:-1,RTE One
+http://37.187.251.142:8000/live/james/james/435.ts
+#EXTINF:-1,RTE Two
+http://37.187.251.142:8000/live/james/james/436.ts
+#EXTINF:-1,RTE NEWS
+http://37.187.251.142:8000/live/james/james/4549.ts
+#EXTINF:-1,RTE Junior
+http://37.187.251.142:8000/live/james/james/5132.ts
+#EXTINF:-1,UTV
+http://37.187.251.142:8000/live/james/james/4550.ts
+#EXTINF:-1,TV 3
+http://37.187.251.142:8000/live/james/james/5134.ts
+#EXTINF:-1,3E
+http://37.187.251.142:8000/live/james/james/5130.ts
+#EXTINF:-1,S4C
+http://37.187.251.142:8000/live/james/james/5133.ts
+#EXTINF:-1,EirSports 1
+http://37.187.251.142:8000/live/james/james/5146.ts
+#EXTINF:-1,EirSports 2
+http://37.187.251.142:8000/live/james/james/5147.ts
+#EXTINF:-1,Button #1 HD
+http://37.187.251.142:8000/live/james/james/5137.ts
+#EXTINF:-1,Button #2 HD
+http://37.187.251.142:8000/live/james/james/5136.ts
+#EXTINF:-1,IRISH TV
+http://37.187.251.142:8000/live/james/james/5145.ts
+#EXTINF:-1,********USA********I
+http://37.187.251.142:8000/live/james/james/2069.ts
+#EXTINF:-1,USA Network
+http://37.187.251.142:8000/live/james/james/136.ts
+#EXTINF:-1,AMC
+http://37.187.251.142:8000/live/james/james/262.ts
+#EXTINF:-1,ABC HD
+http://37.187.251.142:8000/live/james/james/368.ts
+#EXTINF:-1,CW HD
+http://37.187.251.142:8000/live/james/james/369.ts
+#EXTINF:-1,THE CW Central
+http://37.187.251.142:8000/live/james/james/2299.ts
+#EXTINF:-1,ABC _HD
+http://37.187.251.142:8000/live/james/james/2243.ts
+#EXTINF:-1,ABC HD RAW
+http://37.187.251.142:8000/live/james/james/2574.ts
+#EXTINF:-1,NBC HD Eastern
+http://37.187.251.142:8000/live/james/james/2575.ts
+#EXTINF:-1,NBC HD
+http://37.187.251.142:8000/live/james/james/2177.ts
+#EXTINF:-1,NBC
+http://37.187.251.142:8000/live/james/james/2244.ts
+#EXTINF:-1,FOX 43
+http://37.187.251.142:8000/live/james/james/2245.ts
+#EXTINF:-1,FOX HD USA RAW
+http://37.187.251.142:8000/live/james/james/2577.ts
+#EXTINF:-1,CBS HD
+http://37.187.251.142:8000/live/james/james/129.ts
+#EXTINF:-1,CBS HD RAW
+http://37.187.251.142:8000/live/james/james/2576.ts
+#EXTINF:-1,A & E
+http://37.187.251.142:8000/live/james/james/133.ts
+#EXTINF:-1,TNT
+http://37.187.251.142:8000/live/james/james/2238.ts
+#EXTINF:-1,US TBS HD
+http://37.187.251.142:8000/live/james/james/137.ts
+#EXTINF:-1,PBS HD
+http://37.187.251.142:8000/live/james/james/2228.ts
+#EXTINF:-1,my9
+http://37.187.251.142:8000/live/james/james/2242.ts
+#EXTINF:-1,BRAVO USA
+http://37.187.251.142:8000/live/james/james/1134.ts
+#EXTINF:-1,SYFY USA
+http://37.187.251.142:8000/live/james/james/2237.ts
+#EXTINF:-1,SPIKE HD
+http://37.187.251.142:8000/live/james/james/2173.ts
+#EXTINF:-1,HGTV HD
+http://37.187.251.142:8000/live/james/james/1163.ts
+#EXTINF:-1,FX HD
+http://37.187.251.142:8000/live/james/james/2174.ts
+#EXTINF:-1,OWN HD
+http://37.187.251.142:8000/live/james/james/5307.ts
+#EXTINF:-1,DIY Network HD
+http://37.187.251.142:8000/live/james/james/2185.ts
+#EXTINF:-1,SHOWTIME HD
+http://37.187.251.142:8000/live/james/james/2165.ts
+#EXTINF:-1,History Channel USA
+http://37.187.251.142:8000/live/james/james/741.ts
+#EXTINF:-1,DISCOVERY HD USA
+http://37.187.251.142:8000/live/james/james/2585.ts
+#EXTINF:-1,Discovery Channel
+http://37.187.251.142:8000/live/james/james/2234.ts
+#EXTINF:-1,National Geographic HD  USA
+http://37.187.251.142:8000/live/james/james/2713.ts
+#EXTINF:-1,Animal Planet US
+http://37.187.251.142:8000/live/james/james/2230.ts
+#EXTINF:-1,FOX NEWS
+http://37.187.251.142:8000/live/james/james/2241.ts
+#EXTINF:-1,CNN
+http://37.187.251.142:8000/live/james/james/2233.ts
+#EXTINF:-1,CNBC
+http://37.187.251.142:8000/live/james/james/2232.ts
+#EXTINF:-1,ABC NEWS
+http://37.187.251.142:8000/live/james/james/1135.ts
+#EXTINF:-1,Comedy Central HD US
+http://37.187.251.142:8000/live/james/james/2183.ts
+#EXTINF:-1,HBO Zone HD
+http://37.187.251.142:8000/live/james/james/157.ts
+#EXTINF:-1,HBO Signature
+http://37.187.251.142:8000/live/james/james/158.ts
+#EXTINF:-1,HBO HD
+http://37.187.251.142:8000/live/james/james/467.ts
+#EXTINF:-1,HBO FAMILY / COMEDY
+http://37.187.251.142:8000/live/james/james/468.ts
+#EXTINF:-1,Hallmark HD
+http://37.187.251.142:8000/live/james/james/161.ts
+#EXTINF:-1,US TLC
+http://37.187.251.142:8000/live/james/james/138.ts
+#EXTINF:-1,Lifetime
+http://37.187.251.142:8000/live/james/james/2239.ts
+#EXTINF:-1,Travel Channel HD
+http://37.187.251.142:8000/live/james/james/1169.ts
+#EXTINF:-1,Cartoon Network USA
+http://37.187.251.142:8000/live/james/james/2231.ts
+#EXTINF:-1,US NICK
+http://37.187.251.142:8000/live/james/james/150.ts
+#EXTINF:-1,SYFY USA SD
+http://37.187.251.142:8000/live/james/james/6033.ts
+#EXTINF:-1,vh1 sd
+http://37.187.251.142:8000/live/james/james/6034.ts
+#EXTINF:-1,ESPN
+http://37.187.251.142:8000/live/james/james/2235.ts
+#EXTINF:-1,FOX Sports USA
+http://37.187.251.142:8000/live/james/james/119.ts
+#EXTINF:-1,FOX SPORT 1 USA
+http://37.187.251.142:8000/live/james/james/2302.ts
+#EXTINF:-1,FOX SPORTS 2 USA
+http://37.187.251.142:8000/live/james/james/2303.ts
+#EXTINF:-1,Bein Sport USA
+http://37.187.251.142:8000/live/james/james/3947.ts
+#EXTINF:-1,ESPN 2 USA
+http://37.187.251.142:8000/live/james/james/2304.ts
+#EXTINF:-1,############################ EPL GAME TIME ONLY CHANNELS ############################
+http://37.187.251.142:8000/live/james/james/6018.ts
+#EXTINF:-1,NBC Sports
+http://37.187.251.142:8000/live/james/james/2.ts
+#EXTINF:-1,############################ NBA GAME TIME ONLY CHANNELS ############################
+http://37.187.251.142:8000/live/james/james/6015.ts
+#EXTINF:-1,NBA Live 1
+http://37.187.251.142:8000/live/james/james/6007.ts
+#EXTINF:-1,NBA Live 2
+http://37.187.251.142:8000/live/james/james/6008.ts
+#EXTINF:-1,NBA Live 3
+http://37.187.251.142:8000/live/james/james/6009.ts
+#EXTINF:-1,NBA Live 4
+http://37.187.251.142:8000/live/james/james/6010.ts
+#EXTINF:-1,NBA Live 5
+http://37.187.251.142:8000/live/james/james/6011.ts
+#EXTINF:-1,NBA Live 6
+http://37.187.251.142:8000/live/james/james/6012.ts
+#EXTINF:-1,NBA Live 7
+http://37.187.251.142:8000/live/james/james/6013.ts
+#EXTINF:-1,NBA Live 8
+http://37.187.251.142:8000/live/james/james/6014.ts
+#EXTINF:-1,############################ NFL GAME TIME ONLY CHANNELS ############################
+http://37.187.251.142:8000/live/james/james/6017.ts
+#EXTINF:-1,NFL 1
+http://37.187.251.142:8000/live/james/james/4502.ts
+#EXTINF:-1,NFL 2
+http://37.187.251.142:8000/live/james/james/4501.ts
+#EXTINF:-1,NFL 3
+http://37.187.251.142:8000/live/james/james/4500.ts
+#EXTINF:-1,NFL 4
+http://37.187.251.142:8000/live/james/james/4499.ts
+#EXTINF:-1,NFL 5
+http://37.187.251.142:8000/live/james/james/4498.ts
+#EXTINF:-1,NFL 6
+http://37.187.251.142:8000/live/james/james/4497.ts
+#EXTINF:-1,NFL 7
+http://37.187.251.142:8000/live/james/james/4496.ts
+#EXTINF:-1,NFL 8
+http://37.187.251.142:8000/live/james/james/4495.ts
+#EXTINF:-1,NFL 9
+http://37.187.251.142:8000/live/james/james/4494.ts
+#EXTINF:-1,NFL 10
+http://37.187.251.142:8000/live/james/james/4493.ts
+#EXTINF:-1,NFL 11
+http://37.187.251.142:8000/live/james/james/4492.ts
+#EXTINF:-1,NFL 12
+http://37.187.251.142:8000/live/james/james/4491.ts
+#EXTINF:-1,NFL13
+http://37.187.251.142:8000/live/james/james/4545.ts
+#EXTINF:-1,NFL 14
+http://37.187.251.142:8000/live/james/james/4546.ts
+#EXTINF:-1,NFL 15
+http://37.187.251.142:8000/live/james/james/4547.ts
+#EXTINF:-1,############################ MLB GAME TIME ONLY CHANNELS ############################
+http://37.187.251.142:8000/live/james/james/6016.ts
+#EXTINF:-1,MLB 1
+http://37.187.251.142:8000/live/james/james/4518.ts
+#EXTINF:-1,MLB 2
+http://37.187.251.142:8000/live/james/james/4517.ts
+#EXTINF:-1,MLB 3
+http://37.187.251.142:8000/live/james/james/4516.ts
+#EXTINF:-1,MLB 4
+http://37.187.251.142:8000/live/james/james/4515.ts
+#EXTINF:-1,MLB 5
+http://37.187.251.142:8000/live/james/james/4514.ts
+#EXTINF:-1,MLB 6
+http://37.187.251.142:8000/live/james/james/4513.ts
+#EXTINF:-1,MLB 8
+http://37.187.251.142:8000/live/james/james/4511.ts
+#EXTINF:-1,MLB 7
+http://37.187.251.142:8000/live/james/james/4512.ts
+#EXTINF:-1,MLB 9
+http://37.187.251.142:8000/live/james/james/4510.ts
+#EXTINF:-1,MLB 10
+http://37.187.251.142:8000/live/james/james/4509.ts
+#EXTINF:-1,MLB 11
+http://37.187.251.142:8000/live/james/james/4508.ts
+#EXTINF:-1,MLB 12
+http://37.187.251.142:8000/live/james/james/4507.ts
+#EXTINF:-1,MLB 13
+http://37.187.251.142:8000/live/james/james/4506.ts
+#EXTINF:-1,MLB 14
+http://37.187.251.142:8000/live/james/james/4505.ts
+#EXTINF:-1,MLB 16
+http://37.187.251.142:8000/live/james/james/4503.ts
+#EXTINF:-1,MLB 15
+http://37.187.251.142:8000/live/james/james/4504.ts
+#EXTINF:-1,######### USA TEST CHANNELS #############
+http://37.187.251.142:8000/live/james/james/5983.ts
+#EXTINF:-1,C-Span  American History
+http://37.187.251.142:8000/live/james/james/5994.ts
+#EXTINF:-1,C-SPAN 2
+http://37.187.251.142:8000/live/james/james/5992.ts
+#EXTINF:-1,C-SPAN 3
+http://37.187.251.142:8000/live/james/james/5993.ts
+#EXTINF:-1,C-SPAN
+http://37.187.251.142:8000/live/james/james/5991.ts
+#EXTINF:-1,RT US
+http://37.187.251.142:8000/live/james/james/5995.ts
+#EXTINF:-1,Freeform
+http://37.187.251.142:8000/live/james/james/5986.ts
+#EXTINF:-1,Starz East
+http://37.187.251.142:8000/live/james/james/5982.ts
+#EXTINF:-1,Starz Edge HD
+http://37.187.251.142:8000/live/james/james/5985.ts
+#EXTINF:-1,Starz encore
+http://37.187.251.142:8000/live/james/james/5981.ts
+#EXTINF:-1,Action Max
+http://37.187.251.142:8000/live/james/james/5984.ts
+#EXTINF:-1,NBA TV
+http://37.187.251.142:8000/live/james/james/5988.ts
+#EXTINF:-1,NFL NOW
+http://37.187.251.142:8000/live/james/james/5987.ts
+#EXTINF:-1,NFL REDZONE
+http://37.187.251.142:8000/live/james/james/5989.ts
+#EXTINF:-1,NFL NETWORK
+http://37.187.251.142:8000/live/james/james/6004.ts
+#EXTINF:-1,MSNBC
+http://37.187.251.142:8000/live/james/james/6006.ts
+#EXTINF:-1,WGN News
+http://37.187.251.142:8000/live/james/james/5996.ts
+#EXTINF:-1,################# CANADA  #################
+http://37.187.251.142:8000/live/james/james/2588.ts
+#EXTINF:-1,GLOBAL TV HD CANADA RAW
+http://51.254.196.35:8080/GLOBALTVHDCANADA/index.m3u8
+#EXTINF:-1,CTV HD CANADA
+http://37.187.251.142:8000/live/james/james/2578.ts
+#EXTINF:-1,CITY HD RAW Edmonton
+http://37.187.251.142:8000/live/james/james/2579.ts
+#EXTINF:-1,CTV news
+http://37.187.251.142:8000/live/james/james/6022.ts
+#EXTINF:-1,CBC Edmonton HD
+http://37.187.251.142:8000/live/james/james/3957.ts
+#EXTINF:-1,Sportsnet West HD
+http://37.187.251.142:8000/live/james/james/5009.ts
+#EXTINF:-1,Sportsnet World HD
+http://37.187.251.142:8000/live/james/james/5010.ts
+#EXTINF:-1,Sportsnet Ontario HD
+http://37.187.251.142:8000/live/james/james/5008.ts
+#EXTINF:-1,Sportsnet One HD
+http://37.187.251.142:8000/live/james/james/5007.ts
+#EXTINF:-1,Sportsnet 360 HD
+http://37.187.251.142:8000/live/james/james/5011.ts
+#EXTINF:-1,TSN 1
+http://37.187.251.142:8000/live/james/james/5976.ts
+#EXTINF:-1,TSN 2
+http://37.187.251.142:8000/live/james/james/5977.ts
+#EXTINF:-1,TSN 3
+http://37.187.251.142:8000/live/james/james/5978.ts
+#EXTINF:-1,TSN 4
+http://37.187.251.142:8000/live/james/james/5979.ts
+#EXTINF:-1,TSN 5
+http://37.187.251.142:8000/live/james/james/5980.ts
+#EXTINF:-1,++++++++++SIngtel Singapore++++++++++
+http://37.187.251.142:8000/live/james/james/2294.ts
+#EXTINF:-1,SPORTDIGITAL
+http://37.187.251.142:8000/live/james/james/6025.ts
+#EXTINF:-1,MIO Stadium 102 HD
+http://37.187.251.142:8000/live/james/james/769.ts
+#EXTINF:-1,MIO Stadium 103 HD
+http://37.187.251.142:8000/live/james/james/768.ts
+#EXTINF:-1,MIO Stadium 104 HD
+http://37.187.251.142:8000/live/james/james/767.ts
+#EXTINF:-1,MIO Stadium 105 HD
+http://37.187.251.142:8000/live/james/james/766.ts
+#EXTINF:-1,MIO Stadium 106 HD
+http://37.187.251.142:8000/live/james/james/765.ts
+#EXTINF:-1,EPL 1 ( MATCH TIME )
+http://37.187.251.142:8000/live/james/james/6047.ts
+#EXTINF:-1,EPL 2 ( MATCH TIME )
+http://37.187.251.142:8000/live/james/james/6046.ts
+#EXTINF:-1,EPL 3 ( MATCH TIME )
+http://37.187.251.142:8000/live/james/james/6045.ts
+#EXTINF:-1,EPL 4 ( MATCH TIME )
+http://37.187.251.142:8000/live/james/james/6044.ts
+#EXTINF:-1,EPL 5 ( MATCH TIME )
+http://37.187.251.142:8000/live/james/james/6043.ts
+#EXTINF:-1,MIO Stadium 103 SD
+http://37.187.251.142:8000/live/james/james/6031.ts
+#EXTINF:-1,MIO Stadium 102 SD
+http://37.187.251.142:8000/live/james/james/6030.ts
+#EXTINF:-1,MIO Stadium 104 SD
+http://37.187.251.142:8000/live/james/james/6032.ts
+#EXTINF:-1,########################### TEST CHANNELS ####################################
+http://37.187.251.142:8000/live/james/james/5036.ts
+#EXTINF:-1,Astro SuperSport 1
+http://37.187.251.142:8000/live/james/james/5456.ts
+#EXTINF:-1,Astro SuperSport 2
+http://37.187.251.142:8000/live/james/james/5455.ts
+#EXTINF:-1,Astro SuperSport 3
+http://37.187.251.142:8000/live/james/james/5454.ts
+#EXTINF:-1,Astro SuperSport 4
+http://37.187.251.142:8000/live/james/james/5453.ts
+#EXTINF:-1,####################### beinsports + osn ###########################
+http://37.187.251.142:8000/live/james/james/4739.ts
+#EXTINF:-1,BEIN SPORT 1
+http://37.187.251.142:8000/live/james/james/5016.ts
+#EXTINF:-1,BEIN SPORT 2
+http://37.187.251.142:8000/live/james/james/5017.ts
+#EXTINF:-1,BEIN SPORT 3
+http://37.187.251.142:8000/live/james/james/5018.ts
+#EXTINF:-1,BEIN SPORT 4
+http://37.187.251.142:8000/live/james/james/5019.ts
+#EXTINF:-1,BEIN SPORT 5
+http://37.187.251.142:8000/live/james/james/5020.ts
+#EXTINF:-1,BEIN SPORT 6
+http://37.187.251.142:8000/live/james/james/5021.ts
+#EXTINF:-1,BEIN SPORT 7
+http://37.187.251.142:8000/live/james/james/5022.ts
+#EXTINF:-1,BEIN SPORT 8
+http://37.187.251.142:8000/live/james/james/5023.ts
+#EXTINF:-1,BEIN SPORT 9
+http://37.187.251.142:8000/live/james/james/5024.ts
+#EXTINF:-1,BEIN SPORT 10
+http://37.187.251.142:8000/live/james/james/5025.ts
+#EXTINF:-1,beIN Sport 11 HD
+http://37.187.251.142:8000/live/james/james/5451.ts
+#EXTINF:-1,beIN Sport 12 HD
+http://37.187.251.142:8000/live/james/james/5452.ts
+#EXTINF:-1,bein sport 12
+http://37.187.251.142:8000/live/james/james/6027.ts
+#EXTINF:-1,sportclub2
+http://37.187.251.142:8000/live/james/james/6026.ts
+#EXTINF:-1,NOVA SPORT BULGERA
+http://37.187.251.142:8000/live/james/james/6024.ts
+#EXTINF:-1,AD SPORT 3
+http://37.187.251.142:8000/live/james/james/5026.ts
+#EXTINF:-1,OSN Cricket
+http://37.187.251.142:8000/live/james/james/5997.ts
+#EXTINF:-1,OSN Movies Action
+http://37.187.251.142:8000/live/james/james/5998.ts
+#EXTINF:-1,OSN Movies Comedy
+http://37.187.251.142:8000/live/james/james/5999.ts
+#EXTINF:-1,OSN Sports 1
+http://37.187.251.142:8000/live/james/james/6000.ts
+#EXTINF:-1,OSN Sports 2
+http://37.187.251.142:8000/live/james/james/6001.ts
+#EXTINF:-1,OSN Sports 3
+http://37.187.251.142:8000/live/james/james/6002.ts
+#EXTINF:-1,OSN Sports 4
+http://37.187.251.142:8000/live/james/james/6003.ts
+#EXTINF:-1,AD SPORT 4
+http://37.187.251.142:8000/live/james/james/5027.ts
+#EXTINF:-1,######################### SKY NET SPORTS ###########################
+http://37.187.251.142:8000/live/james/james/5315.ts
+#EXTINF:-1,Sky Net Sports 1 / NBC
+http://37.187.251.142:8000/live/james/james/5310.ts
+#EXTINF:-1,Sky Net Sports 2 / NBC
+http://37.187.251.142:8000/live/james/james/5311.ts
+#EXTINF:-1,Sky Net Sports 3 / NBC
+http://37.187.251.142:8000/live/james/james/5312.ts
+#EXTINF:-1,Sky Net Sports 4 / NBC
+http://37.187.251.142:8000/live/james/james/5313.ts
+#EXTINF:-1,Sky Net Sports 5 / NBC
+http://37.187.251.142:8000/live/james/james/5314.ts
+#EXTINF:-1,Sky Net Sports 6 / NBC
+http://37.187.251.142:8000/live/james/james/5316.ts
+#EXTINF:-1,##############- FRENCH ##############-
+http://37.187.251.142:8000/live/james/james/2489.ts
+#EXTINF:-1,-------------------GREEK TV -----------------
+http://37.187.251.142:8000/live/james/james/2339.ts
+#EXTINF:-1,ZOUGLA TV
+http://37.187.251.142:8000/live/james/james/5383.ts
+#EXTINF:-1,XALASTRA TV
+http://37.187.251.142:8000/live/james/james/5388.ts
+#EXTINF:-1,WZRA KIDS
+http://37.187.251.142:8000/live/james/james/5396.ts
+#EXTINF:-1,WZRA
+http://37.187.251.142:8000/live/james/james/5446.ts
+#EXTINF:-1,VOULI BUP
+http://37.187.251.142:8000/live/james/james/5347.ts
+#EXTINF:-1,VOULI
+http://37.187.251.142:8000/live/james/james/5346.ts
+#EXTINF:-1,VOLCANO
+http://37.187.251.142:8000/live/james/james/5428.ts
+#EXTINF:-1,TV MYTILINI
+http://37.187.251.142:8000/live/james/james/5430.ts
+#EXTINF:-1,TV FILOPOLI
+http://37.187.251.142:8000/live/james/james/5439.ts
+#EXTINF:-1,TV CRETA
+http://37.187.251.142:8000/live/james/james/5402.ts
+#EXTINF:-1,TV 100
+http://37.187.251.142:8000/live/james/james/5401.ts
+#EXTINF:-1,TOP CHANNEL
+http://37.187.251.142:8000/live/james/james/5411.ts
+#EXTINF:-1,TINOS TV
+http://37.187.251.142:8000/live/james/james/5432.ts
+#EXTINF:-1,TILESPORT
+http://37.187.251.142:8000/live/james/james/5441.ts
+#EXTINF:-1,TILEMOUSIKI 2
+http://37.187.251.142:8000/live/james/james/5390.ts
+#EXTINF:-1,TILEMOUSIKI
+http://37.187.251.142:8000/live/james/james/5389.ts
+#EXTINF:-1,THRAKI NET
+http://37.187.251.142:8000/live/james/james/5409.ts
+#EXTINF:-1,SYROS TV1
+http://37.187.251.142:8000/live/james/james/5427.ts
+#EXTINF:-1,SUPERSTAR
+http://37.187.251.142:8000/live/james/james/5386.ts
+#EXTINF:-1,START TV
+http://37.187.251.142:8000/live/james/james/5417.ts
+#EXTINF:-1,SMILE
+http://37.187.251.142:8000/live/james/james/5341.ts
+#EXTINF:-1,SKAI
+http://37.187.251.142:8000/live/james/james/5336.ts
+#EXTINF:-1,SIGMA CY
+http://37.187.251.142:8000/live/james/james/5354.ts
+#EXTINF:-1,SAMIAKI TV
+http://37.187.251.142:8000/live/james/james/5426.ts
+#EXTINF:-1,RIK SAT CY
+http://37.187.251.142:8000/live/james/james/5350.ts
+#EXTINF:-1,R CHANNEL
+http://37.187.251.142:8000/live/james/james/5408.ts
+#EXTINF:-1,PALMOS TV
+http://37.187.251.142:8000/live/james/james/5368.ts
+#EXTINF:-1,OMEGA TV
+http://37.187.251.142:8000/live/james/james/5425.ts
+#EXTINF:-1,NG TV
+http://37.187.251.142:8000/live/james/james/5392.ts
+#EXTINF:-1,NETV TORONTO
+http://37.187.251.142:8000/live/james/james/5376.ts
+#EXTINF:-1,NEA TV
+http://37.187.251.142:8000/live/james/james/5404.ts
+#EXTINF:-1,MPAXALO TV
+http://37.187.251.142:8000/live/james/james/5377.ts
+#EXTINF:-1,MESSINIA WEB TV
+http://37.187.251.142:8000/live/james/james/5434.ts
+#EXTINF:-1,MEGAONE CY
+http://37.187.251.142:8000/live/james/james/5351.ts
+#EXTINF:-1,MANA ELLADA TV
+http://37.187.251.142:8000/live/james/james/5440.ts
+#EXTINF:-1,MAGIC TV
+http://37.187.251.142:8000/live/james/james/5384.ts
+#EXTINF:-1,MAD TV CY
+http://37.187.251.142:8000/live/james/james/5382.ts
+#EXTINF:-1,M.TV HD
+http://37.187.251.142:8000/live/james/james/5339.ts
+#EXTINF:-1,LYCHNOS
+http://37.187.251.142:8000/live/james/james/5423.ts
+#EXTINF:-1,LAMPSI TV
+http://37.187.251.142:8000/live/james/james/5374.ts
+#EXTINF:-1,KPHTH TV
+http://37.187.251.142:8000/live/james/james/5403.ts
+#EXTINF:-1,KONTRA
+http://37.187.251.142:8000/live/james/james/5363.ts
+#EXTINF:-1,KANALI 6
+http://37.187.251.142:8000/live/james/james/5407.ts
+#EXTINF:-1,IONIAN CHANNEL BUP
+http://37.187.251.142:8000/live/james/james/5399.ts
+#EXTINF:-1,IONIAN CHANNEL
+http://37.187.251.142:8000/live/james/james/5398.ts
+#EXTINF:-1,HELLENIC TV
+http://37.187.251.142:8000/live/james/james/5438.ts
+#EXTINF:-1,HELLAS TV
+http://37.187.251.142:8000/live/james/james/5444.ts
+#EXTINF:-1,HEART BEAT
+http://37.187.251.142:8000/live/james/james/5391.ts
+#EXTINF:-1,FOX TV
+http://37.187.251.142:8000/live/james/james/5393.ts
+#EXTINF:-1,EXTRA CHANNEL
+http://37.187.251.142:8000/live/james/james/5361.ts
+#EXTINF:-1,ERT3 BUP
+http://37.187.251.142:8000/live/james/james/5325.ts
+#EXTINF:-1,ERT2 BUP
+http://37.187.251.142:8000/live/james/james/5322.ts
+#EXTINF:-1,ERT1 BUP 2
+http://37.187.251.142:8000/live/james/james/5319.ts
+#EXTINF:-1,ERT1 BUP
+http://37.187.251.142:8000/live/james/james/5318.ts
+#EXTINF:-1,ERT HD
+http://37.187.251.142:8000/live/james/james/5327.ts
+#EXTINF:-1,EPIRUS TV1
+http://37.187.251.142:8000/live/james/james/5415.ts
+#EXTINF:-1,ELLINIKOS TV
+http://37.187.251.142:8000/live/james/james/5437.ts
+#EXTINF:-1,ELL TV
+http://37.187.251.142:8000/live/james/james/5435.ts
+#EXTINF:-1,ELA TV
+http://37.187.251.142:8000/live/james/james/5433.ts
+#EXTINF:-1,EBS PLUS
+http://37.187.251.142:8000/live/james/james/5449.ts
+#EXTINF:-1,EBS
+http://37.187.251.142:8000/live/james/james/5448.ts
+#EXTINF:-1,E
+http://37.187.251.142:8000/live/james/james/5338.ts
+#EXTINF:-1,DIKTYO TV
+http://37.187.251.142:8000/live/james/james/5406.ts
+#EXTINF:-1,DELTA TV
+http://37.187.251.142:8000/live/james/james/5405.ts
+#EXTINF:-1,CORFU TV
+http://37.187.251.142:8000/live/james/james/5414.ts
+#EXTINF:-1,CINEMANIA
+http://37.187.251.142:8000/live/james/james/5369.ts
+#EXTINF:-1,CHIOS TV
+http://37.187.251.142:8000/live/james/james/5443.ts
+#EXTINF:-1,CANNALI
+http://37.187.251.142:8000/live/james/james/5387.ts
+#EXTINF:-1,BLUE SKY
+http://37.187.251.142:8000/live/james/james/5359.ts
+#EXTINF:-1,BHMA TV
+http://37.187.251.142:8000/live/james/james/5413.ts
+#EXTINF:-1,BEST TV
+http://37.187.251.142:8000/live/james/james/5421.ts
+#EXTINF:-1,AXELWOS TV
+http://37.187.251.142:8000/live/james/james/5412.ts
+#EXTINF:-1,ATTICA TV
+http://37.187.251.142:8000/live/james/james/5358.ts
+#EXTINF:-1,ASTRA TV
+http://37.187.251.142:8000/live/james/james/5418.ts
+#EXTINF:-1,APEIRO CINEMA
+http://37.187.251.142:8000/live/james/james/5375.ts
+#EXTINF:-1,ANT1
+http://37.187.251.142:8000/live/james/james/5330.ts
+#EXTINF:-1,ALPHA SAT
+http://37.187.251.142:8000/live/james/james/5344.ts
+#EXTINF:-1,ALPHA MUSIC
+http://37.187.251.142:8000/live/james/james/5385.ts
+#EXTINF:-1,ALPHA CY
+http://37.187.251.142:8000/live/james/james/5353.ts
+#EXTINF:-1,ALPHA CINEMA
+http://37.187.251.142:8000/live/james/james/5371.ts
+#EXTINF:-1,AIGAIO TV
+http://37.187.251.142:8000/live/james/james/5424.ts
+#EXTINF:-1,ACHAIA CHANNEL
+http://37.187.251.142:8000/live/james/james/5420.ts
+#EXTINF:-1,AB CHANNEL
+http://37.187.251.142:8000/live/james/james/5357.ts
+#EXTINF:-1,4E
+http://37.187.251.142:8000/live/james/james/5365.ts
+#EXTINF:-1,####################### DUTCH TV ###############################
+http://37.187.251.142:8000/live/james/james/4738.ts
+#EXTINF:-1,nl-SBS6-6
+http://37.187.251.142:8000/live/james/james/5275.ts
+#EXTINF:-1,nl-SBS6
+http://37.187.251.142:8000/live/james/james/5274.ts
+#EXTINF:-1,nl-Rtl8-6
+http://37.187.251.142:8000/live/james/james/5279.ts
+#EXTINF:-1,nl-Rtl8
+http://37.187.251.142:8000/live/james/james/5278.ts
+#EXTINF:-1,nl-Rtl7-6
+http://37.187.251.142:8000/live/james/james/5277.ts
+#EXTINF:-1,nl-Rtl7
+http://37.187.251.142:8000/live/james/james/5276.ts
+#EXTINF:-1,nl-Rtl5-6
+http://37.187.251.142:8000/live/james/james/5273.ts
+#EXTINF:-1,nl-Rtl5
+http://37.187.251.142:8000/live/james/james/5272.ts
+#EXTINF:-1,nl-Rtl4-6
+http://37.187.251.142:8000/live/james/james/5271.ts
+#EXTINF:-1,nl-Rtl4
+http://37.187.251.142:8000/live/james/james/5270.ts
+#EXTINF:-1,nl-npo3-6
+http://37.187.251.142:8000/live/james/james/5269.ts
+#EXTINF:-1,nl-npo3
+http://37.187.251.142:8000/live/james/james/5268.ts
+#EXTINF:-1,nl-npo2-6
+http://37.187.251.142:8000/live/james/james/5267.ts
+#EXTINF:-1,nl-npo2
+http://37.187.251.142:8000/live/james/james/5266.ts
+#EXTINF:-1,nl-npo1-6
+http://37.187.251.142:8000/live/james/james/5265.ts
+#EXTINF:-1,nl-npo1
+http://37.187.251.142:8000/live/james/james/5264.ts
+#EXTINF:-1,nl-Net5-6
+http://37.187.251.142:8000/live/james/james/5281.ts
+#EXTINF:-1,nl-Net5
+http://37.187.251.142:8000/live/james/james/5280.ts
+#EXTINF:-1,######################## German ##################
+http://37.187.251.142:8000/live/james/james/5148.ts
+#EXTINF:-1,DE: ZDF HD
+http://37.187.251.142:8000/live/james/james/4604.ts
+#EXTINF:-1,DE: WDR HD Aachen
+http://37.187.251.142:8000/live/james/james/4605.ts
+#EXTINF:-1,DE: VOX HD
+http://37.187.251.142:8000/live/james/james/4606.ts
+#EXTINF:-1,DE: VIVA/Comedy
+http://37.187.251.142:8000/live/james/james/4607.ts
+#EXTINF:-1,DE: TNT Serie HD
+http://37.187.251.142:8000/live/james/james/4608.ts
+#EXTINF:-1,DE: TNT Film
+http://37.187.251.142:8000/live/james/james/4609.ts
+#EXTINF:-1,DE: Super RTL HD
+http://37.187.251.142:8000/live/james/james/4610.ts
+#EXTINF:-1,DE: Sport1   HD
+http://37.187.251.142:8000/live/james/james/4611.ts
+#EXTINF:-1,DE: Sport 1 HD
+http://37.187.251.142:8000/live/james/james/4612.ts
+#EXTINF:-1,DE: Sky Sport News
+http://37.187.251.142:8000/live/james/james/4613.ts
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://37.187.251.142:8000/live/james/james/4614.ts
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://37.187.251.142:8000/live/james/james/4615.ts
+#EXTINF:-1,DE: Sky Select 5HD
+http://37.187.251.142:8000/live/james/james/4616.ts
+#EXTINF:-1,DE: Sky Select 4 HD
+http://37.187.251.142:8000/live/james/james/4617.ts
+#EXTINF:-1,DE: SKY SELECT 3 HD
+http://37.187.251.142:8000/live/james/james/4618.ts
+#EXTINF:-1,DE: SKY SELECT 2 HD
+http://37.187.251.142:8000/live/james/james/4619.ts
+#EXTINF:-1,DE: SKY SELECT 1 HD
+http://37.187.251.142:8000/live/james/james/4620.ts
+#EXTINF:-1,DE: Sky Hits HD
+http://37.187.251.142:8000/live/james/james/4621.ts
+#EXTINF:-1,DE: Sky Emotion
+http://37.187.251.142:8000/live/james/james/4622.ts
+#EXTINF:-1,DE: Sky Comedy
+http://37.187.251.142:8000/live/james/james/4623.ts
+#EXTINF:-1,DE: Sky Cinema HD
+http://37.187.251.142:8000/live/james/james/4624.ts
+#EXTINF:-1,DE: Sky Action HD
+http://37.187.251.142:8000/live/james/james/4625.ts
+#EXTINF:-1,DE: SIXX HD
+http://37.187.251.142:8000/live/james/james/4626.ts
+#EXTINF:-1,DE: Sat.1 HD
+http://37.187.251.142:8000/live/james/james/4627.ts
+#EXTINF:-1,DE: RTL Passion
+http://37.187.251.142:8000/live/james/james/4628.ts
+#EXTINF:-1,DE: RTL Nitro HD
+http://37.187.251.142:8000/live/james/james/4629.ts
+#EXTINF:-1,DE: RTL HD
+http://37.187.251.142:8000/live/james/james/4630.ts
+#EXTINF:-1,DE: RTL Crime
+http://37.187.251.142:8000/live/james/james/4631.ts
+#EXTINF:-1,DE: RTL 2 HD
+http://37.187.251.142:8000/live/james/james/4632.ts
+#EXTINF:-1,DE: ProSieben Maxx HD
+http://37.187.251.142:8000/live/james/james/4633.ts
+#EXTINF:-1,DE: ProSieben HD
+http://37.187.251.142:8000/live/james/james/4634.ts
+#EXTINF:-1,DE: ProSieben FUN HD
+http://37.187.251.142:8000/live/james/james/4635.ts
+#EXTINF:-1,DE: ORF 2N HD
+http://37.187.251.142:8000/live/james/james/4636.ts
+#EXTINF:-1,DE: ORF 1 HD
+http://37.187.251.142:8000/live/james/james/4637.ts
+#EXTINF:-1,DE: NDR HD
+http://37.187.251.142:8000/live/james/james/4638.ts
+#EXTINF:-1,DE: NatGeo HD
+http://37.187.251.142:8000/live/james/james/4639.ts
+#EXTINF:-1,DE: N24 HD
+http://37.187.251.142:8000/live/james/james/4640.ts
+#EXTINF:-1,DE: n-tv HD
+http://37.187.251.142:8000/live/james/james/4641.ts
+#EXTINF:-1,DE: Motorvision TV
+http://37.187.251.142:8000/live/james/james/4642.ts
+#EXTINF:-1,DE: KIKA HD
+http://37.187.251.142:8000/live/james/james/4643.ts
+#EXTINF:-1,DE: Kabel Eins HD
+http://37.187.251.142:8000/live/james/james/4644.ts
+#EXTINF:-1,DE: HR HD
+http://37.187.251.142:8000/live/james/james/4645.ts
+#EXTINF:-1,DE: History HD
+http://37.187.251.142:8000/live/james/james/4646.ts
+#EXTINF:-1,DE: Eurosport HD
+http://37.187.251.142:8000/live/james/james/4647.ts
+#EXTINF:-1,DE: Disney HD
+http://37.187.251.142:8000/live/james/james/4648.ts
+#EXTINF:-1,DE: Disney Cinemagic HD
+http://37.187.251.142:8000/live/james/james/4649.ts
+#EXTINF:-1,DE: Discovery Channel HD
+http://37.187.251.142:8000/live/james/james/4650.ts
+#EXTINF:-1,DE: Das Erste HD
+http://37.187.251.142:8000/live/james/james/4651.ts
+#EXTINF:-1,DE: AXN HD
+http://37.187.251.142:8000/live/james/james/4652.ts
+#EXTINF:-1,DE: ATV
+http://37.187.251.142:8000/live/james/james/4653.ts
+#EXTINF:-1,DE: arte HD
+http://37.187.251.142:8000/live/james/james/4654.ts
+#EXTINF:-1,DE: Anixe HD
+http://37.187.251.142:8000/live/james/james/4655.ts
+#EXTINF:-1,DE: 3sat HD
+http://37.187.251.142:8000/live/james/james/4656.ts
+#EXTINF:-1,--------####ARGENTINA####-----------------
+http://37.187.251.142:8000/live/james/james/2379.ts
+#EXTINF:-1,ORBE 21
+http://37.187.251.142:8000/live/james/james/2435.ts
+#EXTINF:-1,Moreno Vision
+http://37.187.251.142:8000/live/james/james/2434.ts
+#EXTINF:-1,Telpin Canal 2 HD 720 Pinamar
+http://37.187.251.142:8000/live/james/james/2442.ts
+#EXTINF:-1,Canal 9 Parana
+http://37.187.251.142:8000/live/james/james/2428.ts
+#EXTINF:-1,Canal 79 San Juan
+http://37.187.251.142:8000/live/james/james/2427.ts
+#EXTINF:-1,Canal 4 HD 720 Jujuy
+http://37.187.251.142:8000/live/james/james/2424.ts
+#EXTINF:-1,C5N Argentina
+http://37.187.251.142:8000/live/james/james/2419.ts
+#EXTINF:-1,C5N
+http://37.187.251.142:8000/live/james/james/2418.ts
+#EXTINF:-1,ARG:Canal 5 Argentina
+http://37.187.251.142:8000/live/james/james/2425.ts
+#EXTINF:-1,################# Russian ###################
+http://37.187.251.142:8000/live/james/james/5128.ts
+#EXTINF:-1,RU: TV1000 Action
+http://37.187.251.142:8000/live/james/james/5124.ts
+#EXTINF:-1,RU: TV1000
+http://37.187.251.142:8000/live/james/james/5123.ts
+#EXTINF:-1,RU: Russia-24
+http://37.187.251.142:8000/live/james/james/5122.ts
+#EXTINF:-1,RU: Russia 1
+http://37.187.251.142:8000/live/james/james/5126.ts
+#EXTINF:-1,RU: REN TV
+http://37.187.251.142:8000/live/james/james/5127.ts
+#EXTINF:-1,RU: Nat Geo Wild
+http://37.187.251.142:8000/live/james/james/5125.ts
+#EXTINF:-1,???
+http://37.187.251.142:8000/live/james/james/5121.ts
+#EXTINF:-1,RU: Spas TV
+http://37.187.251.142:8000/live/james/james/5154.ts
+#EXTINF:-1,RU: Russkoe Kino
+http://37.187.251.142:8000/live/james/james/5177.ts
+#EXTINF:-1,RU: Rossia 24
+http://37.187.251.142:8000/live/james/james/5155.ts
+#EXTINF:-1,RU: Rossia 1
+http://37.187.251.142:8000/live/james/james/5156.ts
+#EXTINF:-1,RU: Retro TV
+http://37.187.251.142:8000/live/james/james/5157.ts
+#EXTINF:-1,RU: Premialnoe Kino
+http://37.187.251.142:8000/live/james/james/5172.ts
+#EXTINF:-1,RU: Pokaz Kino
+http://37.187.251.142:8000/live/james/james/5170.ts
+#EXTINF:-1,RU: Pervui Kanal
+http://37.187.251.142:8000/live/james/james/5158.ts
+#EXTINF:-1,RU: NTV HD
+http://37.187.251.142:8000/live/james/james/5159.ts
+#EXTINF:-1,RU: NTV
+http://37.187.251.142:8000/live/james/james/5160.ts
+#EXTINF:-1,RU: Nashe Novoe Kino
+http://37.187.251.142:8000/live/james/james/5161.ts
+#EXTINF:-1,RU: Nashe Kino
+http://37.187.251.142:8000/live/james/james/5162.ts
+#EXTINF:-1,RU: Nashe
+http://37.187.251.142:8000/live/james/james/5163.ts
+#EXTINF:-1,RU: Moskva 24
+http://37.187.251.142:8000/live/james/james/5164.ts
+#EXTINF:-1,RU: Mnogo TV
+http://37.187.251.142:8000/live/james/james/5165.ts
+#EXTINF:-1,RU: Mir Seriala
+http://37.187.251.142:8000/live/james/james/5166.ts
+#EXTINF:-1,RU: Lychee Kino
+http://37.187.251.142:8000/live/james/james/5169.ts
+#EXTINF:-1,RU: Lubimoe Kino
+http://37.187.251.142:8000/live/james/james/5167.ts
+#EXTINF:-1,RU: Kushnya TV
+http://37.187.251.142:8000/live/james/james/5168.ts
+#EXTINF:-1,RU: Kino Plus
+http://37.187.251.142:8000/live/james/james/5173.ts
+#EXTINF:-1,RU: Kino Club
+http://37.187.251.142:8000/live/james/james/5171.ts
+#EXTINF:-1,RU: Kino Action
+http://37.187.251.142:8000/live/james/james/5178.ts
+#EXTINF:-1,RU: Evropa Kino
+http://37.187.251.142:8000/live/james/james/5174.ts
+#EXTINF:-1,RU: Dom Kino Premialnui
+http://37.187.251.142:8000/live/james/james/5175.ts
+#EXTINF:-1,RU: Dom Kino
+http://37.187.251.142:8000/live/james/james/5176.ts
+#EXTINF:-1,RU: CTC
+http://37.187.251.142:8000/live/james/james/5153.ts
+#EXTINF:-1,********Mixed Sports********I
+http://37.187.251.142:8000/live/james/james/2073.ts
+#EXTINF:-1,Arena Sports 1 HD Croatia
+http://37.187.251.142:8000/live/james/james/177.ts
+#EXTINF:-1,Arena Sports 2 HD Croatia
+http://37.187.251.142:8000/live/james/james/178.ts
+#EXTINF:-1,Arena Sports 3 HD Croatia
+http://37.187.251.142:8000/live/james/james/179.ts
+#EXTINF:-1,Arena Sports 4 HD Croatia
+http://37.187.251.142:8000/live/james/james/180.ts
+#EXTINF:-1,Arena Sport 5 Srb
+http://37.187.251.142:8000/live/james/james/181.ts
+#EXTINF:-1,Sky Sport 1 HD Germany
+http://37.187.251.142:8000/live/james/james/258.ts
+#EXTINF:-1,DE: SKY Bundesliga HD6 (Matchday)
+http://37.187.251.142:8000/live/james/james/3938.ts
+#EXTINF:-1,DE: SKY Bundesliga HD5 (Matchday)
+http://37.187.251.142:8000/live/james/james/3937.ts
+#EXTINF:-1,DE: SKY Bundesliga HD4 (Matchday)
+http://37.187.251.142:8000/live/james/james/3936.ts
+#EXTINF:-1,DE: Sky Bundesliga 1 HD
+http://37.187.251.142:8000/live/james/james/3933.ts
+#EXTINF:-1,DE: SKY Bundesliga HD3  (Matchday)
+http://37.187.251.142:8000/live/james/james/3935.ts
+#EXTINF:-1,DE: SKY Bundesliga HD2
+http://37.187.251.142:8000/live/james/james/3934.ts
+#EXTINF:-1,DE: SKY Bundesliga HD1
+http://37.187.251.142:8000/live/james/james/3932.ts
+#EXTINF:-1,########### AR #################
+http://37.187.251.142:8000/live/james/james/2669.ts
+#EXTINF:-1,Noor Dubai TV
+http://37.187.251.142:8000/live/james/james/2712.ts
+#EXTINF:-1,Dubai Sports HD
+http://37.187.251.142:8000/live/james/james/2705.ts
+#EXTINF:-1,Dubai Sports
+http://37.187.251.142:8000/live/james/james/2706.ts
+#EXTINF:-1,Dubai Racing 1
+http://37.187.251.142:8000/live/james/james/2707.ts
+#EXTINF:-1,Dubai One
+http://37.187.251.142:8000/live/james/james/2709.ts
+#EXTINF:-1,Al Aan TV
+http://37.187.251.142:8000/live/james/james/2702.ts
+#EXTINF:-1,********Indian + Pakistan********I
+http://37.187.251.142:8000/live/james/james/2071.ts
+#EXTINF:-1,STAR SPORTS 1 HD
+http://37.187.251.142:8000/live/james/james/1173.ts
+#EXTINF:-1,STAR SPORTS 2 HD
+http://37.187.251.142:8000/live/james/james/1174.ts
+#EXTINF:-1,STAR SPORTS 3 HD
+http://37.187.251.142:8000/live/james/james/1175.ts
+#EXTINF:-1,STAR SPORTS 4 HD
+http://37.187.251.142:8000/live/james/james/1176.ts
+#EXTINF:-1,IN SP: STAR SPORTS 4HD
+http://37.187.251.142:8000/live/james/james/4980.ts
+#EXTINF:-1,IN SP: STAR SPORTS 3HD
+http://37.187.251.142:8000/live/james/james/4981.ts
+#EXTINF:-1,IN SP: STAR SPORTS 2HD
+http://37.187.251.142:8000/live/james/james/4982.ts
+#EXTINF:-1,IN SP: STAR SPORTS 1HD
+http://37.187.251.142:8000/live/james/james/4983.ts
+#EXTINF:-1,#1011 Asianet Movies
+http://37.187.251.142:8000/live/james/james/5765.ts
+#EXTINF:-1,#108 Jaya TV
+http://37.187.251.142:8000/live/james/james/5760.ts
+#EXTINF:-1,#110 Raj Musix
+http://37.187.251.142:8000/live/james/james/5759.ts
+#EXTINF:-1,#111 Suvarna News 24X7
+http://37.187.251.142:8000/live/james/james/5758.ts
+#EXTINF:-1,#1247 PuthiyaThalaimurai
+http://37.187.251.142:8000/live/james/james/5751.ts
+#EXTINF:-1,#127 Sun TV v
+http://37.187.251.142:8000/live/james/james/5750.ts
+#EXTINF:-1,#128 Sun TV US
+http://37.187.251.142:8000/live/james/james/5749.ts
+#EXTINF:-1,#129 KTV
+http://37.187.251.142:8000/live/james/james/5748.ts
+#EXTINF:-1,#130 KTV US
+http://37.187.251.142:8000/live/james/james/5746.ts
+#EXTINF:-1,#1309 Mathrubhumi News
+http://37.187.251.142:8000/live/james/james/5745.ts
+#EXTINF:-1,#1310 Radio Zindagi Bay Area
+http://37.187.251.142:8000/live/james/james/5743.ts
+#EXTINF:-1,#1311 Radio Zindagi NY-NJ-CT
+http://37.187.251.142:8000/live/james/james/5742.ts
+#EXTINF:-1,#1312 Radio Zindagi VA-WA-MD
+http://37.187.251.142:8000/live/james/james/5741.ts
+#EXTINF:-1,#1317 Surya TV
+http://37.187.251.142:8000/live/james/james/5744.ts
+#EXTINF:-1,#132 Surya TV US
+http://37.187.251.142:8000/live/james/james/5739.ts
+#EXTINF:-1,#133 Udaya TV 2
+http://37.187.251.142:8000/live/james/james/5738.ts
+#EXTINF:-1,#135 Udaya TV US
+http://37.187.251.142:8000/live/james/james/5737.ts
+#EXTINF:-1,#1357 TV9 Kannada
+http://37.187.251.142:8000/live/james/james/5735.ts
+#EXTINF:-1,#1361 TV9 Gujarati
+http://37.187.251.142:8000/live/james/james/5733.ts
+#EXTINF:-1,#1366 ARY QTV
+http://37.187.251.142:8000/live/james/james/5728.ts
+#EXTINF:-1,#141 Samay Rajasthan
+http://37.187.251.142:8000/live/james/james/5717.ts
+#EXTINF:-1,#142 Samay UP
+http://37.187.251.142:8000/live/james/james/5716.ts
+#EXTINF:-1,#143 Samay Aalami
+http://37.187.251.142:8000/live/james/james/5715.ts
+#EXTINF:-1,#1439 MediaOne TV
+http://37.187.251.142:8000/live/james/james/5714.ts
+#EXTINF:-1,#144 Asianet News
+http://37.187.251.142:8000/live/james/james/5713.ts
+#EXTINF:-1,#1440 Kaumudy TV
+http://37.187.251.142:8000/live/james/james/5712.ts
+#EXTINF:-1,#1441 Goodness TV
+http://37.187.251.142:8000/live/james/james/5711.ts
+#EXTINF:-1,#15 Zoom
+http://37.187.251.142:8000/live/james/james/5710.ts
+#EXTINF:-1,#151 Raj News 24X7
+http://37.187.251.142:8000/live/james/james/5709.ts
+#EXTINF:-1,#152 Makkal TV
+http://37.187.251.142:8000/live/james/james/5708.ts
+#EXTINF:-1,#157 Raj TV
+http://37.187.251.142:8000/live/james/james/5707.ts
+#EXTINF:-1,#159 Raj Digital Plus
+http://37.187.251.142:8000/live/james/james/5705.ts
+#EXTINF:-1,#160 Raj Music Kannada
+http://37.187.251.142:8000/live/james/james/5704.ts
+#EXTINF:-1,#161 Raj Music Malayalam
+http://37.187.251.142:8000/live/james/james/5703.ts
+#EXTINF:-1,#162 Jeevan TV
+http://37.187.251.142:8000/live/james/james/5702.ts
+#EXTINF:-1,#165 Jaya Max
+http://37.187.251.142:8000/live/james/james/5701.ts
+#EXTINF:-1,#167 Jaya Plus Tamil
+http://37.187.251.142:8000/live/james/james/5700.ts
+#EXTINF:-1,#169 Jaya Movies
+http://37.187.251.142:8000/live/james/james/5699.ts
+#EXTINF:-1,#1859 KeralaVision
+http://37.187.251.142:8000/live/james/james/5695.ts
+#EXTINF:-1,#189 Jaya Max US
+http://37.187.251.142:8000/live/james/james/5693.ts
+#EXTINF:-1,#1898 Care World TV USA
+http://37.187.251.142:8000/live/james/james/5692.ts
+#EXTINF:-1,#190 Jaya Movies US
+http://37.187.251.142:8000/live/james/james/5691.ts
+#EXTINF:-1,#191 JayaTV US
+http://37.187.251.142:8000/live/james/james/5690.ts
+#EXTINF:-1,#192 Raj Digital Plus US
+http://37.187.251.142:8000/live/james/james/5689.ts
+#EXTINF:-1,#193 RajTV US
+http://37.187.251.142:8000/live/james/james/5688.ts
+#EXTINF:-1,#1932 Manorama News
+http://37.187.251.142:8000/live/james/james/5687.ts
+#EXTINF:-1,#1933 Mazhavil Manorama
+http://37.187.251.142:8000/live/james/james/5686.ts
+#EXTINF:-1,#196 NDTV INDIA
+http://37.187.251.142:8000/live/james/james/5684.ts
+#EXTINF:-1,#197 Star Vijay
+http://37.187.251.142:8000/live/james/james/5683.ts
+#EXTINF:-1,#200 UTV Bindass
+http://37.187.251.142:8000/live/james/james/5681.ts
+#EXTINF:-1,#201 Suvarna TV
+http://37.187.251.142:8000/live/james/james/5680.ts
+#EXTINF:-1,#212 Suvarna TV US
+http://37.187.251.142:8000/live/james/james/5678.ts
+#EXTINF:-1,#214 Thanthi TV
+http://37.187.251.142:8000/live/james/james/5677.ts
+#EXTINF:-1,#2162 Sanskar TV
+http://37.187.251.142:8000/live/james/james/5674.ts
+#EXTINF:-1,#2165 Tez TV
+http://37.187.251.142:8000/live/james/james/5673.ts
+#EXTINF:-1,#217 People TV
+http://37.187.251.142:8000/live/james/james/5672.ts
+#EXTINF:-1,#218 Bindass Play
+http://37.187.251.142:8000/live/james/james/5671.ts
+#EXTINF:-1,#2248 News7Tamil
+http://37.187.251.142:8000/live/james/james/5670.ts
+#EXTINF:-1,#2274 ABP News
+http://37.187.251.142:8000/live/james/james/5667.ts
+#EXTINF:-1,#2420 Sirasa TV
+http://37.187.251.142:8000/live/james/james/5652.ts
+#EXTINF:-1,#2437 FlowersTV
+http://37.187.251.142:8000/live/james/james/5651.ts
+#EXTINF:-1,#2469 Vannathirai VTV
+http://37.187.251.142:8000/live/james/james/5650.ts
+#EXTINF:-1,#249 Amrita TV
+http://37.187.251.142:8000/live/james/james/5647.ts
+#EXTINF:-1,#2597 JUS 24x7
+http://37.187.251.142:8000/live/james/james/5646.ts
+#EXTINF:-1,#2603 Shakthi TV
+http://37.187.251.142:8000/live/james/james/5645.ts
+#EXTINF:-1,#262 Kairali TV
+http://37.187.251.142:8000/live/james/james/5644.ts
+#EXTINF:-1,#263 We TV
+http://37.187.251.142:8000/live/james/james/5643.ts
+#EXTINF:-1,#2665 Angel TV
+http://37.187.251.142:8000/live/james/james/5640.ts
+#EXTINF:-1,#2698 HarvestTV USA
+http://37.187.251.142:8000/live/james/james/5636.ts
+#EXTINF:-1,#2714 News24
+http://37.187.251.142:8000/live/james/james/5635.ts
+#EXTINF:-1,#2715 E24
+http://37.187.251.142:8000/live/james/james/5634.ts
+#EXTINF:-1,#2743 Siyatha TV
+http://37.187.251.142:8000/live/james/james/5632.ts
+#EXTINF:-1,#2744 Derana TV
+http://37.187.251.142:8000/live/james/james/5631.ts
+#EXTINF:-1,#2746 Rupavahini TV
+http://37.187.251.142:8000/live/james/james/5630.ts
+#EXTINF:-1,#2749 ITN
+http://37.187.251.142:8000/live/james/james/5629.ts
+#EXTINF:-1,#2759 Swarnavahini TV
+http://37.187.251.142:8000/live/james/james/5628.ts
+#EXTINF:-1,#294 Zee Cinema
+http://37.187.251.142:8000/live/james/james/5627.ts
+#EXTINF:-1,#295 Zee TV
+http://37.187.251.142:8000/live/james/james/5626.ts
+#EXTINF:-1,#296 Zing TV
+http://37.187.251.142:8000/live/james/james/5625.ts
+#EXTINF:-1,#297 Zee Business
+http://37.187.251.142:8000/live/james/james/5624.ts
+#EXTINF:-1,#305 Asianet TV
+http://37.187.251.142:8000/live/james/james/5618.ts
+#EXTINF:-1,#306 Asianet Plus
+http://37.187.251.142:8000/live/james/james/5617.ts
+#EXTINF:-1,#307 Jaihind TV
+http://37.187.251.142:8000/live/james/james/5616.ts
+#EXTINF:-1,#314 Janasri News
+http://37.187.251.142:8000/live/james/james/5613.ts
+#EXTINF:-1,#318 Samay Bihar
+http://37.187.251.142:8000/live/james/james/5612.ts
+#EXTINF:-1,#319 Samay MP
+http://37.187.251.142:8000/live/james/james/5611.ts
+#EXTINF:-1,#338 9X Jalwa
+http://37.187.251.142:8000/live/james/james/5609.ts
+#EXTINF:-1,#340 Colors Kannada Non US
+http://37.187.251.142:8000/live/james/james/5608.ts
+#EXTINF:-1,#369 Adithya TV
+http://37.187.251.142:8000/live/james/james/5605.ts
+#EXTINF:-1,#370 Sun Music
+http://37.187.251.142:8000/live/james/james/5604.ts
+#EXTINF:-1,#373 Kiran TV
+http://37.187.251.142:8000/live/james/james/5602.ts
+#EXTINF:-1,#374 B4U Movies
+http://37.187.251.142:8000/live/james/james/5601.ts
+#EXTINF:-1,#375 B4U Music
+http://37.187.251.142:8000/live/james/james/5600.ts
+#EXTINF:-1,#386 Mangalmay TV
+http://37.187.251.142:8000/live/james/james/5595.ts
+#EXTINF:-1,#406 Zee Kannada US
+http://37.187.251.142:8000/live/james/james/5593.ts
+#EXTINF:-1,#441 Asianet TV US
+http://37.187.251.142:8000/live/james/james/5585.ts
+#EXTINF:-1,#442 Asianet Plus US
+http://37.187.251.142:8000/live/james/james/5584.ts
+#EXTINF:-1,#443 Kiran TV US
+http://37.187.251.142:8000/live/james/james/5583.ts
+#EXTINF:-1,#446 Seithigal TV
+http://37.187.251.142:8000/live/james/james/5582.ts
+#EXTINF:-1,#599 Sudarshan News
+http://37.187.251.142:8000/live/james/james/5576.ts
+#EXTINF:-1,#649 Darshan24
+http://37.187.251.142:8000/live/james/james/5572.ts
+#EXTINF:-1,#689 Mahuaatv
+http://37.187.251.142:8000/live/james/james/5571.ts
+#EXTINF:-1,#697 Music India
+http://37.187.251.142:8000/live/james/james/5569.ts
+#EXTINF:-1,#698 OTV
+http://37.187.251.142:8000/live/james/james/5568.ts
+#EXTINF:-1,#699 Tarang TV
+http://37.187.251.142:8000/live/james/james/5567.ts
+#EXTINF:-1,#700 Tarang Music
+http://37.187.251.142:8000/live/james/james/5566.ts
+#EXTINF:-1,#701 Prarthana TV
+http://37.187.251.142:8000/live/james/james/5565.ts
+#EXTINF:-1,#703 Reporter TV
+http://37.187.251.142:8000/live/james/james/5564.ts
+#EXTINF:-1,#705 Shalom TV
+http://37.187.251.142:8000/live/james/james/5562.ts
+#EXTINF:-1,#706 Power Vision TV
+http://37.187.251.142:8000/live/james/james/5561.ts
+#EXTINF:-1,#707 Colors Gujarati
+http://37.187.251.142:8000/live/james/james/5560.ts
+#EXTINF:-1,#71 Colors Kannada 2
+http://37.187.251.142:8000/live/james/james/5559.ts
+#EXTINF:-1,#717 AY TV
+http://37.187.251.142:8000/live/james/james/5558.ts
+#EXTINF:-1,#728 Sri Sankara Tamil
+http://37.187.251.142:8000/live/james/james/5557.ts
+#EXTINF:-1,#729 Sri Sankara Kannada
+http://37.187.251.142:8000/live/james/james/5556.ts
+#EXTINF:-1,#749 Mtunes
+http://37.187.251.142:8000/live/james/james/5555.ts
+#EXTINF:-1,#778 Divya TV
+http://37.187.251.142:8000/live/james/james/5554.ts
+#EXTINF:-1,#8 Aajtak
+http://37.187.251.142:8000/live/james/james/5553.ts
+#EXTINF:-1,#807 Public TV
+http://37.187.251.142:8000/live/james/james/5552.ts
+#EXTINF:-1,#808 9XM
+http://37.187.251.142:8000/live/james/james/5551.ts
+#EXTINF:-1,#809 Kalaignar TV
+http://37.187.251.142:8000/live/james/james/5550.ts
+#EXTINF:-1,#810 Sirippoli TV
+http://37.187.251.142:8000/live/james/james/5549.ts
+#EXTINF:-1,#811 Chithiram TV
+http://37.187.251.142:8000/live/james/james/5548.ts
+#EXTINF:-1,#812 Isai Aruvi
+http://37.187.251.142:8000/live/james/james/5547.ts
+#EXTINF:-1,#813 Murasu
+http://37.187.251.142:8000/live/james/james/5546.ts
+#EXTINF:-1,#984 Captain TV
+http://37.187.251.142:8000/live/james/james/5542.ts
+#EXTINF:-1,#EXTINF:  isaiaruvi-Tamil
+http://37.187.251.142:8000/live/james/james/5794.ts
+#EXTINF:-1,#EXTINF:  jayamoviesus-Tamil
+http://37.187.251.142:8000/live/james/james/5793.ts
+#EXTINF:-1,#EXTINF:  jayatv-Tamil
+http://37.187.251.142:8000/live/james/james/5792.ts
+#EXTINF:-1,#EXTINF:  kaumudy-Malayalam
+http://37.187.251.142:8000/live/james/james/5791.ts
+#EXTINF:-1,#EXTINF:  ktvus-Tamil
+http://37.187.251.142:8000/live/james/james/5790.ts
+#EXTINF:-1,#EXTINF:  rajdigitalplus-Tamil
+http://37.187.251.142:8000/live/james/james/5789.ts
+#EXTINF:-1,#EXTINF:  sankarakan-Kannada
+http://37.187.251.142:8000/live/james/james/5788.ts
+#EXTINF:-1,#EXTINF:  sankaratam-Tamil
+http://37.187.251.142:8000/live/james/james/5787.ts
+#EXTINF:-1,#EXTINF:  suntvus-Tamil
+http://37.187.251.142:8000/live/james/james/5786.ts
+#EXTINF:-1,&Picture HD
+http://37.187.251.142:8000/live/james/james/5785.ts
+#EXTINF:-1,B4U
+http://37.187.251.142:8000/live/james/james/5784.ts
+#EXTINF:-1,Bangla:  ATN News
+http://37.187.251.142:8000/live/james/james/5722.ts
+#EXTINF:-1,Bangla:  MY TV
+http://37.187.251.142:8000/live/james/james/5721.ts
+#EXTINF:-1,Bangla: Asian TV
+http://37.187.251.142:8000/live/james/james/5656.ts
+#EXTINF:-1,Bangla: ATN Bangla
+http://37.187.251.142:8000/live/james/james/5723.ts
+#EXTINF:-1,Bangla: BTV World
+http://37.187.251.142:8000/live/james/james/5724.ts
+#EXTINF:-1,Bangla: Channel i
+http://37.187.251.142:8000/live/james/james/5726.ts
+#EXTINF:-1,Bangla: Independent TV
+http://37.187.251.142:8000/live/james/james/5658.ts
+#EXTINF:-1,Bangla: Peace TV Bangla
+http://37.187.251.142:8000/live/james/james/5720.ts
+#EXTINF:-1,Bangla: RTV Bangla
+http://37.187.251.142:8000/live/james/james/5725.ts
+#EXTINF:-1,Bangla: SA TV
+http://37.187.251.142:8000/live/james/james/5657.ts
+#EXTINF:-1,Bangla: Sangsad Bangladesh
+http://37.187.251.142:8000/live/james/james/5694.ts
+#EXTINF:-1,Bengali: 24 Ghanta
+http://37.187.251.142:8000/live/james/james/5614.ts
+#EXTINF:-1,Bengali: ABP Ananda
+http://37.187.251.142:8000/live/james/james/5666.ts
+#EXTINF:-1,Bengali: Colors Bangla
+http://37.187.251.142:8000/live/james/james/5597.ts
+#EXTINF:-1,Bengali: Dhoom Music
+http://37.187.251.142:8000/live/james/james/5649.ts
+#EXTINF:-1,Bengali: Durga Puja
+http://37.187.251.142:8000/live/james/james/5639.ts
+#EXTINF:-1,Bengali: News Time
+http://37.187.251.142:8000/live/james/james/5654.ts
+#EXTINF:-1,Bengali: Rupashi Bangla
+http://37.187.251.142:8000/live/james/james/5653.ts
+#EXTINF:-1,Bengali: Sangeet Bangla
+http://37.187.251.142:8000/live/james/james/5570.ts
+#EXTINF:-1,Bengali: Star Jalsha
+http://37.187.251.142:8000/live/james/james/5620.ts
+#EXTINF:-1,Bengali: Star Jalsha US
+http://37.187.251.142:8000/live/james/james/5588.ts
+#EXTINF:-1,Bengali: Tara Muzik
+http://37.187.251.142:8000/live/james/james/5676.ts
+#EXTINF:-1,Bengali: Zee Bangla
+http://37.187.251.142:8000/live/james/james/5619.ts
+#EXTINF:-1,Bengali: Zee Bangla US
+http://37.187.251.142:8000/live/james/james/5589.ts
+#EXTINF:-1,Colors
+http://37.187.251.142:8000/live/james/james/5770.ts
+#EXTINF:-1,Colors TV HD
+http://37.187.251.142:8000/live/james/james/5783.ts
+#EXTINF:-1,colors_2
+http://37.187.251.142:8000/live/james/james/5769.ts
+#EXTINF:-1,Crick
+http://37.187.251.142:8000/live/james/james/5782.ts
+#EXTINF:-1,HLN
+http://37.187.251.142:8000/live/james/james/4521.ts
+#EXTINF:-1,Marathi: ABP Majha TV
+http://37.187.251.142:8000/live/james/james/5823.ts
+#EXTINF:-1,Marathi: DD Shayardi
+http://37.187.251.142:8000/live/james/james/5822.ts
+#EXTINF:-1,Marathi: Jai Maharasahtra news
+http://37.187.251.142:8000/live/james/james/5821.ts
+#EXTINF:-1,Marati:  ABP Majha
+http://37.187.251.142:8000/live/james/james/5665.ts
+#EXTINF:-1,Marati:  Colors Marathi
+http://37.187.251.142:8000/live/james/james/5598.ts
+#EXTINF:-1,Marati:  Harvest TV
+http://37.187.251.142:8000/live/james/james/5752.ts
+#EXTINF:-1,Marati:  Saam TV
+http://37.187.251.142:8000/live/james/james/5622.ts
+#EXTINF:-1,Marati:  Star Pravah
+http://37.187.251.142:8000/live/james/james/5621.ts
+#EXTINF:-1,Marati:  TV9 Maharashtra
+http://37.187.251.142:8000/live/james/james/5734.ts
+#EXTINF:-1,Marati:  Zee Talkies
+http://37.187.251.142:8000/live/james/james/5623.ts
+#EXTINF:-1,Marati: 24 Taas
+http://37.187.251.142:8000/live/james/james/5615.ts
+#EXTINF:-1,Marati: 9xJhakaas
+http://37.187.251.142:8000/live/james/james/5648.ts
+#EXTINF:-1,Marati: Star Pravah US
+http://37.187.251.142:8000/live/james/james/5592.ts
+#EXTINF:-1,Marati: Zee Marathi US
+http://37.187.251.142:8000/live/james/james/5591.ts
+#EXTINF:-1,Marati: Zee Talkies US
+http://37.187.251.142:8000/live/james/james/5590.ts
+#EXTINF:-1,News Time
+http://37.187.251.142:8000/live/james/james/5773.ts
+#EXTINF:-1,PK:  ARY MUSIK.
+http://37.187.251.142:8000/live/james/james/5730.ts
+#EXTINF:-1,PK:  Paigam Pushto
+http://37.187.251.142:8000/live/james/james/5662.ts
+#EXTINF:-1,PK:  Such TV
+http://37.187.251.142:8000/live/james/james/5661.ts
+#EXTINF:-1,PK: ARY DIGITAL
+http://37.187.251.142:8000/live/james/james/5732.ts
+#EXTINF:-1,PK: ARY DIGITAL UK
+http://37.187.251.142:8000/live/james/james/5860.ts
+#EXTINF:-1,PK: ARY NEWS
+http://37.187.251.142:8000/live/james/james/5731.ts
+#EXTINF:-1,PK: ARY ZAUQ
+http://37.187.251.142:8000/live/james/james/5729.ts
+#EXTINF:-1,PK: ATV
+http://37.187.251.142:8000/live/james/james/5859.ts
+#EXTINF:-1,PK: CITY 42
+http://37.187.251.142:8000/live/james/james/5858.ts
+#EXTINF:-1,PK: DAWN NEWS
+http://37.187.251.142:8000/live/james/james/5857.ts
+#EXTINF:-1,PK: Dekho TV
+http://37.187.251.142:8000/live/james/james/5660.ts
+#EXTINF:-1,PK: FOOD INTERNATIONAL
+http://37.187.251.142:8000/live/james/james/5856.ts
+#EXTINF:-1,PK: GEO KAHANI
+http://37.187.251.142:8000/live/james/james/5855.ts
+#EXTINF:-1,PK: GEO TV
+http://37.187.251.142:8000/live/james/james/5854.ts
+#EXTINF:-1,PK: Hadi TV
+http://37.187.251.142:8000/live/james/james/5719.ts
+#EXTINF:-1,PK: HIDAYAT TV
+http://37.187.251.142:8000/live/james/james/5853.ts
+#EXTINF:-1,PK: Hum TV
+http://37.187.251.142:8000/live/james/james/5664.ts
+#EXTINF:-1,PK: HUM TV UK
+http://37.187.251.142:8000/live/james/james/5852.ts
+#EXTINF:-1,PK: ISLAM TV URDU
+http://37.187.251.142:8000/live/james/james/5851.ts
+#EXTINF:-1,PK: JAAG NEWS
+http://37.187.251.142:8000/live/james/james/5850.ts
+#EXTINF:-1,PK: KAY 2
+http://37.187.251.142:8000/live/james/james/5849.ts
+#EXTINF:-1,PK: KTN
+http://37.187.251.142:8000/live/james/james/5848.ts
+#EXTINF:-1,PK: Madani TV
+http://37.187.251.142:8000/live/james/james/5718.ts
+#EXTINF:-1,PK: MADINA LIVE
+http://37.187.251.142:8000/live/james/james/5847.ts
+#EXTINF:-1,PK: MADNI CHENAL
+http://37.187.251.142:8000/live/james/james/5846.ts
+#EXTINF:-1,PK: MAKKAH LIVE
+http://37.187.251.142:8000/live/james/james/5845.ts
+#EXTINF:-1,PK: NEO NEWS
+http://37.187.251.142:8000/live/james/james/5844.ts
+#EXTINF:-1,PK: NEWS ONE
+http://37.187.251.142:8000/live/james/james/5843.ts
+#EXTINF:-1,PK: Paigam
+http://37.187.251.142:8000/live/james/james/5663.ts
+#EXTINF:-1,PK: PEACE TV
+http://37.187.251.142:8000/live/james/james/5842.ts
+#EXTINF:-1,PK: Peace TV Urdu
+http://37.187.251.142:8000/live/james/james/5727.ts
+#EXTINF:-1,PK: PTV Sports
+http://37.187.251.142:8000/live/james/james/5781.ts
+#EXTINF:-1,PK: SEE TV HD
+http://37.187.251.142:8000/live/james/james/5841.ts
+#EXTINF:-1,PK: TV ONE
+http://37.187.251.142:8000/live/james/james/5840.ts
+#EXTINF:-1,Polimer
+http://37.187.251.142:8000/live/james/james/5766.ts
+#EXTINF:-1,ptvsports2
+http://37.187.251.142:8000/live/james/james/5774.ts
+#EXTINF:-1,PUJABI Craigieburn Gurudwara
+http://37.187.251.142:8000/live/james/james/5798.ts
+#EXTINF:-1,PUN: 24X7 GURBANI
+http://37.187.251.142:8000/live/james/james/5814.ts
+#EXTINF:-1,PUN: Ankhila Punjab
+http://37.187.251.142:8000/live/james/james/5813.ts
+#EXTINF:-1,PUN: APKA CHANNEL PUNJABI
+http://37.187.251.142:8000/live/james/james/5812.ts
+#EXTINF:-1,PUN: Brit Asia
+http://37.187.251.142:8000/live/james/james/5811.ts
+#EXTINF:-1,PUN: Desi Channel
+http://37.187.251.142:8000/live/james/james/5810.ts
+#EXTINF:-1,PUN: ETC PUNJABI
+http://37.187.251.142:8000/live/james/james/5809.ts
+#EXTINF:-1,PUN: JHANJAR HD
+http://37.187.251.142:8000/live/james/james/5808.ts
+#EXTINF:-1,PUN: Mehak TV Punjab
+http://37.187.251.142:8000/live/james/james/5807.ts
+#EXTINF:-1,PUN: MH 1 Shradha
+http://37.187.251.142:8000/live/james/james/5806.ts
+#EXTINF:-1,PUN: MH1 MUSIC
+http://37.187.251.142:8000/live/james/james/5805.ts
+#EXTINF:-1,PUN: MH1 NEWS
+http://37.187.251.142:8000/live/james/james/5804.ts
+#EXTINF:-1,PUN: SanjhTV
+http://37.187.251.142:8000/live/james/james/5803.ts
+#EXTINF:-1,PUN: Sardari Tv
+http://37.187.251.142:8000/live/james/james/5802.ts
+#EXTINF:-1,PUN: SikhTV
+http://37.187.251.142:8000/live/james/james/5801.ts
+#EXTINF:-1,PUN: Zee Punjabi
+http://37.187.251.142:8000/live/james/james/5800.ts
+#EXTINF:-1,PUN: Zee Punjabi uk
+http://37.187.251.142:8000/live/james/james/5799.ts
+#EXTINF:-1,punajabi: desi beats
+http://37.187.251.142:8000/live/james/james/5820.ts
+#EXTINF:-1,Punjabi : ABP News TV
+http://37.187.251.142:8000/live/james/james/5819.ts
+#EXTINF:-1,PUNJABI gurudwara melbourne
+http://37.187.251.142:8000/live/james/james/5797.ts
+#EXTINF:-1,PUNJABI gurudwara-sahib
+http://37.187.251.142:8000/live/james/james/5796.ts
+#EXTINF:-1,PUNJABI SANGAT TV
+http://37.187.251.142:8000/live/james/james/5795.ts
+#EXTINF:-1,PUNJABI: 5aab TV
+http://37.187.251.142:8000/live/james/james/5633.ts
+#EXTINF:-1,PUNJABI: 9xTashan
+http://37.187.251.142:8000/live/james/james/5839.ts
+#EXTINF:-1,PUNJABI: Alpha ETC Punjabi
+http://37.187.251.142:8000/live/james/james/5603.ts
+#EXTINF:-1,Punjabi: AONE Punjabi
+http://37.187.251.142:8000/live/james/james/5838.ts
+#EXTINF:-1,PUNJABI: Aone Punjabi TV
+http://37.187.251.142:8000/live/james/james/5837.ts
+#EXTINF:-1,PUNJABI: Chardikla TIME TV
+http://37.187.251.142:8000/live/james/james/5607.ts
+#EXTINF:-1,Punjabi: DESHI FUSION TV
+http://37.187.251.142:8000/live/james/james/5836.ts
+#EXTINF:-1,Punjabi: DESI BEATS HD
+http://37.187.251.142:8000/live/james/james/5835.ts
+#EXTINF:-1,PUNJABI: Desi TV
+http://37.187.251.142:8000/live/james/james/5834.ts
+#EXTINF:-1,Punjabi: Fast Way tv
+http://37.187.251.142:8000/live/james/james/5818.ts
+#EXTINF:-1,PUNJABI: Gurbani TV
+http://37.187.251.142:8000/live/james/james/5833.ts
+#EXTINF:-1,Punjabi: Gurmtt TV
+http://37.187.251.142:8000/live/james/james/5817.ts
+#EXTINF:-1,PUNJABI: HamdardTV
+http://37.187.251.142:8000/live/james/james/5832.ts
+#EXTINF:-1,PUNJABI: JUS ONE TV
+http://37.187.251.142:8000/live/james/james/5831.ts
+#EXTINF:-1,PUNJABI: JUS Punjabi TV
+http://37.187.251.142:8000/live/james/james/5830.ts
+#EXTINF:-1,Punjabi: Media Punjab TV
+http://37.187.251.142:8000/live/james/james/5829.ts
+#EXTINF:-1,PUNJABI: PBN Music
+http://37.187.251.142:8000/live/james/james/5828.ts
+#EXTINF:-1,PUNJABI: PTC Chak De
+http://37.187.251.142:8000/live/james/james/5827.ts
+#EXTINF:-1,PUNJABI: PTC News
+http://37.187.251.142:8000/live/james/james/5826.ts
+#EXTINF:-1,PUNJABI: PTC Punjabi
+http://37.187.251.142:8000/live/james/james/5825.ts
+#EXTINF:-1,Punjabi: Sikh Channel USA
+http://37.187.251.142:8000/live/james/james/5816.ts
+#EXTINF:-1,Punjabi: TV84
+http://37.187.251.142:8000/live/james/james/5815.ts
+#EXTINF:-1,Punjabi: TV84 punjab
+http://37.187.251.142:8000/live/james/james/5824.ts
+#EXTINF:-1,Russiatoday
+http://37.187.251.142:8000/live/james/james/5771.ts
+#EXTINF:-1,Sirasatv
+http://37.187.251.142:8000/live/james/james/5768.ts
+#EXTINF:-1,SONY HD
+http://37.187.251.142:8000/live/james/james/5780.ts
+#EXTINF:-1,Star Gold
+http://37.187.251.142:8000/live/james/james/5779.ts
+#EXTINF:-1,Star Movies HD
+http://37.187.251.142:8000/live/james/james/5778.ts
+#EXTINF:-1,SUPERSPORT 1 TEST
+http://37.187.251.142:8000/live/james/james/5032.ts
+#EXTINF:-1,Telungu:  Mahaa TV
+http://37.187.251.142:8000/live/james/james/5685.ts
+#EXTINF:-1,Telungu: 10TV
+http://37.187.251.142:8000/live/james/james/5545.ts
+#EXTINF:-1,Telungu: 6TV
+http://37.187.251.142:8000/live/james/james/5543.ts
+#EXTINF:-1,Telungu: 6TV Telangana
+http://37.187.251.142:8000/live/james/james/5675.ts
+#EXTINF:-1,Telungu: ABN Andhra Jyothi
+http://37.187.251.142:8000/live/james/james/5594.ts
+#EXTINF:-1,Telungu: Aradana TV
+http://37.187.251.142:8000/live/james/james/5578.ts
+#EXTINF:-1,Telungu: Bhakti TV
+http://37.187.251.142:8000/live/james/james/5679.ts
+#EXTINF:-1,Telungu: Bharat Today
+http://37.187.251.142:8000/live/james/james/5642.ts
+#EXTINF:-1,Telungu: Calvary TV
+http://37.187.251.142:8000/live/james/james/5596.ts
+#EXTINF:-1,Telungu: CVR English News
+http://37.187.251.142:8000/live/james/james/5757.ts
+#EXTINF:-1,Telungu: CVR News
+http://37.187.251.142:8000/live/james/james/5573.ts
+#EXTINF:-1,Telungu: ETV Andhra Pradesh
+http://37.187.251.142:8000/live/james/james/5586.ts
+#EXTINF:-1,Telungu: ETV Telugu
+http://37.187.251.142:8000/live/james/james/5610.ts
+#EXTINF:-1,Telungu: Gemini Comedy
+http://37.187.251.142:8000/live/james/james/5606.ts
+#EXTINF:-1,Telungu: Gemini Movies
+http://37.187.251.142:8000/live/james/james/5754.ts
+#EXTINF:-1,Telungu: Gemini TV
+http://37.187.251.142:8000/live/james/james/5755.ts
+#EXTINF:-1,Telungu: Gemini TV US
+http://37.187.251.142:8000/live/james/james/5753.ts
+#EXTINF:-1,Telungu: HMTV
+http://37.187.251.142:8000/live/james/james/5575.ts
+#EXTINF:-1,Telungu: iNews
+http://37.187.251.142:8000/live/james/james/5563.ts
+#EXTINF:-1,Telungu: Maa Gold
+http://37.187.251.142:8000/live/james/james/5697.ts
+#EXTINF:-1,Telungu: Maa Movies
+http://37.187.251.142:8000/live/james/james/5698.ts
+#EXTINF:-1,Telungu: Maa Movies US
+http://37.187.251.142:8000/live/james/james/5696.ts
+#EXTINF:-1,Telungu: Maa Music
+http://37.187.251.142:8000/live/james/james/5599.ts
+#EXTINF:-1,Telungu: Maa TV
+http://37.187.251.142:8000/live/james/james/5587.ts
+#EXTINF:-1,Telungu: Maa TV US
+http://37.187.251.142:8000/live/james/james/5580.ts
+#EXTINF:-1,Telungu: Mana TV
+http://37.187.251.142:8000/live/james/james/5764.ts
+#EXTINF:-1,Telungu: Mana TV Telangana
+http://37.187.251.142:8000/live/james/james/5638.ts
+#EXTINF:-1,Telungu: NTV
+http://37.187.251.142:8000/live/james/james/5577.ts
+#EXTINF:-1,Telungu: OM CVR
+http://37.187.251.142:8000/live/james/james/5763.ts
+#EXTINF:-1,Telungu: PoojaTV
+http://37.187.251.142:8000/live/james/james/5659.ts
+#EXTINF:-1,Telungu: Raj News
+http://37.187.251.142:8000/live/james/james/5761.ts
+#EXTINF:-1,Telungu: Raj Vissa
+http://37.187.251.142:8000/live/james/james/5706.ts
+#EXTINF:-1,Telungu: Rakshana TV
+http://37.187.251.142:8000/live/james/james/5669.ts
+#EXTINF:-1,Telungu: Sakshi TV
+http://37.187.251.142:8000/live/james/james/5574.ts
+#EXTINF:-1,Telungu: Shiva Shakti Sai TV
+http://37.187.251.142:8000/live/james/james/5637.ts
+#EXTINF:-1,Telungu: StudioN
+http://37.187.251.142:8000/live/james/james/5762.ts
+#EXTINF:-1,Telungu: SVBC
+http://37.187.251.142:8000/live/james/james/5747.ts
+#EXTINF:-1,Telungu: T News
+http://37.187.251.142:8000/live/james/james/5682.ts
+#EXTINF:-1,Telungu: TAF TV
+http://37.187.251.142:8000/live/james/james/5641.ts
+#EXTINF:-1,Telungu: TV1 News
+http://37.187.251.142:8000/live/james/james/5736.ts
+#EXTINF:-1,Telungu: TV5
+http://37.187.251.142:8000/live/james/james/5756.ts
+#EXTINF:-1,Telungu: TV9 News
+http://37.187.251.142:8000/live/james/james/5740.ts
+#EXTINF:-1,Telungu: V6 News
+http://37.187.251.142:8000/live/james/james/5581.ts
+#EXTINF:-1,Telungu: Vanitha TV
+http://37.187.251.142:8000/live/james/james/5668.ts
+#EXTINF:-1,Telungu: VTA Meeting Live
+http://37.187.251.142:8000/live/james/james/5655.ts
+#EXTINF:-1,Telungu: Zee Telugu US
+http://37.187.251.142:8000/live/james/james/5579.ts
+#EXTINF:-1,Telungu:Tollywood TV
+http://37.187.251.142:8000/live/james/james/5544.ts
+#EXTINF:-1,Ten Action
+http://37.187.251.142:8000/live/james/james/5777.ts
+#EXTINF:-1,ThanthiTV - Tamil
+http://37.187.251.142:8000/live/james/james/5767.ts
+#EXTINF:-1,Willow HD
+http://37.187.251.142:8000/live/james/james/5776.ts
+#EXTINF:-1,Zee Tamil
+http://37.187.251.142:8000/live/james/james/5772.ts
+#EXTINF:-1,ZeeZindagi
+http://37.187.251.142:8000/live/james/james/5775.ts
+#EXTINF:-1,################# UK RADIO  #################
+http://37.187.251.142:8000/live/james/james/2991.ts
+#EXTINF:-1,KISS 100
+http://37.187.251.142:8000/live/james/james/3083.ts
+#EXTINF:-1,FLIGHT FM
+http://37.187.251.142:8000/live/james/james/2996.ts
+#EXTINF:-1,PUMP n Club
+http://37.187.251.142:8000/live/james/james/3079.ts
+#EXTINF:-1,HITS FOR GIRLS (Radio) (FR) (English)
+http://37.187.251.142:8000/live/james/james/3010.ts
+#EXTINF:-1,FUNKY (Radio) (FR) (English)
+http://37.187.251.142:8000/live/james/james/3009.ts
+#EXTINF:-1,CLUBBIN (Radio) (FR) (English)
+http://37.187.251.142:8000/live/james/james/3004.ts
+#EXTINF:-1,CLASSIC DANCE (Radio) (FR) (English)
+http://37.187.251.142:8000/live/james/james/3003.ts
+#EXTINF:-1,BROKEN HEART (Radio) (FR) (English)
+http://37.187.251.142:8000/live/james/james/3001.ts
+#EXTINF:-1,BEST HITS EVER (Radio) (FR) (English)
+http://37.187.251.142:8000/live/james/james/3000.ts
+#EXTINF:-1,Best Dance FM
+http://37.187.251.142:8000/live/james/james/3071.ts
+#EXTINF:-1,BBC RADIO 1XTRA
+http://37.187.251.142:8000/live/james/james/2997.ts
+#EXTINF:-1,ACOUSTIC HITS (Radio) (FR) (English) By www.iptv4free.com
+http://37.187.251.142:8000/live/james/james/2999.ts
+#EXTINF:-1,181 US
+http://37.187.251.142:8000/live/james/james/3061.ts
+#EXTINF:-1,181 True R & B By www.iptv4free.com
+http://37.187.251.142:8000/live/james/james/3059.ts
+#EXTINF:-1,181 The Breeze
+http://37.187.251.142:8000/live/james/james/3048.ts
+#EXTINF:-1,181 The Box
+http://37.187.251.142:8000/live/james/james/3047.ts
+#EXTINF:-1,181 Star 90s
+http://37.187.251.142:8000/live/james/james/3042.ts
+#EXTINF:-1,181 Soul
+http://37.187.251.142:8000/live/james/james/3041.ts
+#EXTINF:-1,181 Reggae Roots
+http://37.187.251.142:8000/live/james/james/3035.ts
+#EXTINF:-1,181 Real Country
+http://37.187.251.142:8000/live/james/james/3034.ts
+#EXTINF:-1,181 Power - Top 40
+http://37.187.251.142:8000/live/james/james/3033.ts
+#EXTINF:-1,181 Lite 90s
+http://37.187.251.142:8000/live/james/james/3029.ts
+#EXTINF:-1,181 Lite 80s
+http://37.187.251.142:8000/live/james/james/3028.ts
